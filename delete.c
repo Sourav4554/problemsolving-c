@@ -1,3 +1,4 @@
+/*Delete an element*/
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
